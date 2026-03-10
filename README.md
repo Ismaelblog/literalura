@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://www.carpemundi.com.br/wp-content/uploads/2018/06/livros-de-viagem-capa-1.jpg.webp" alt="Print do Menu" width="700">
-</</p> >
+</</p>
 
 # 📚 LiterAlura
 
